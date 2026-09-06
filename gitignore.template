@@ -1,0 +1,25 @@
+# Local Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated game observations and user-authored plans
+captures/
+plans/
+reports/
+.minecraft-control-stop
+local-config.json
+
+# Machine settings and build output
+.env
+.env.*
+dist/
+builds/
+*.zip
+*.zip.sha256
+MANIFEST.sha256.json
+
+# Generated local Codex registration and ignore rules
+/.agents/
+/.gitignore
