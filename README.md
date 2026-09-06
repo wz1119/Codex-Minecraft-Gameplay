@@ -1,4 +1,4 @@
-# Minecraft Gameplay
+# Codex Minecraft Gameplay
 
 A Windows keyboard, mouse, and screenshot toolkit for Codex and other computer-use agents. The agent observes the game, chooses actions, and verifies the result; the Python runtime supplies bounded controls and optional visual checks.
 
