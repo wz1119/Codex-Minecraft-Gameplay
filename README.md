@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://x.com/wuyang_zhou/status/2096548032128942370">
+    <img src="https://img.shields.io/badge/VIEW_POST-X-black?style=for-the-badge&logo=x&logoColor=white" alt="View post on X">
+  </a>
+</p>
+
 # Codex Minecraft Gameplay
 
 A Windows keyboard, mouse, and screenshot toolkit for Codex and other **computer-use agents**. The agent observes the game, chooses actions, and verifies the result; the Python runtime provides controls and optional visual checks.
